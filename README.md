@@ -23,7 +23,7 @@ Teachers salary
 -Total Fees
 
 
---------------------------------------------------------What I Learned------------------------------------------------------------------------------------------------------
+--------------------------------------------------------What I Learned----------------------------------------------------------------------
 
 OOP Design, Class,Function,Using List - ArrayList, Making our data type(Like teacher) and using it in method, Constructor(initializing),logic and algorithm.
 Why we didn't use array? We have to specify that how many number. That's why we use List type.
